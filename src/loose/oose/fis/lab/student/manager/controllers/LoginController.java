@@ -1,7 +1,7 @@
 package loose.oose.fis.lab.student.manager.controllers;
 
 import javafx.fxml.FXML;
-import javafx.scene.control.PasswordField;
+import javafx.scene.control.Ale;
 import javafx.scene.control.TextField;
 import javafx.scene.text.Text;
 
