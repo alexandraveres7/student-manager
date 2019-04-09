@@ -13,6 +13,7 @@ public class Main extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("fxml/view-students.fxml"));
         primaryStage.setTitle("FIS-Student Manager");
         primaryStage.setScene(new Scene(root, 600, 400));
+        System.out.println("Hello World");
         primaryStage.show();
     }
 
